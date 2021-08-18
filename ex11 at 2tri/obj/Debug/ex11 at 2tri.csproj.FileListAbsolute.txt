@@ -1,0 +1,10 @@
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\obj\Debug\ex11 at 2tri.csprojAssemblyReference.cache
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\obj\Debug\ex11_at_2tri.Form1.resources
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\obj\Debug\ex11_at_2tri.Properties.Resources.resources
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\obj\Debug\ex11 at 2tri.csproj.GenerateResource.cache
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\obj\Debug\ex11 at 2tri.csproj.CoreCompileInputs.cache
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\bin\Debug\ex11 at 2tri.exe.config
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\bin\Debug\ex11 at 2tri.exe
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\bin\Debug\ex11 at 2tri.pdb
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\obj\Debug\ex11 at 2tri.exe
+C:\Users\Neusa\Desktop\FIAP\Linguagem de Programação\ex11 at 2tri\ex11 at 2tri\obj\Debug\ex11 at 2tri.pdb
